@@ -1,5 +1,5 @@
 comtypes
-opencv-python
+opencv-python-headless
 pyautogui
 pycaw
 screen-brightness-control
